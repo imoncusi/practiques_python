@@ -1,0 +1,6 @@
+DEBUG 2026-02-19 11:12:37,471 Loading modules from ()
+DEBUG 2026-02-19 11:12:37,471 Found module class <class 'opengnsys.modules.client.OpenGnSys.OpenGnSysWorker'>
+DEBUG 2026-02-19 11:12:37,471 Modules: ['opengnsys']
+DEBUG 2026-02-19 11:12:37,471 Activating module opengnsys
+DEBUG 2026-02-19 11:12:37,471 Activate invoked
+DEBUG 2026-02-19 11:12:37,471 Sending request for msg: 229(REQ_LOGIN), 1667196@uab.cat,ca_ES,x11
